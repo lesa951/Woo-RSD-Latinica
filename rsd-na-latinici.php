@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: RSD na latinici
- * Plugin URI:  https://sasahuremovic.rs
  * Description: Jednostavan dodatak koji dodaje srpski dinar (RSD) kao valutu za WooCommerce.
  * Version:     1.0.0
  * Requires at least: 6.0
