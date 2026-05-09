@@ -20,17 +20,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Ucitava prevode plugina.
- *
- * @return void
- */
-function sh_rsd_ucitaj_textdomain() {
-	load_plugin_textdomain( 'rsd-na-latinici', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
-}
-
-add_action( 'plugins_loaded', 'sh_rsd_ucitaj_textdomain' );
-
-/**
  * Dodaje RSD u listu WooCommerce valuta.
  *
  * @param array<string, string> $valute Lista dostupnih valuta.

@@ -2,46 +2,46 @@
 Contributors: 
 Tags: woocommerce, currency, rsd, serbia, dinar
 Requires at least: 6.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Dodaje srpski dinar (RSD) kao dostupnu valutu u WooCommerce prodavnici.
+Adds Serbian dinar (RSD) as an available currency in WooCommerce.
 
 == Description ==
 
-RSD na latinici je lagan plugin koji dodaje srpski dinar (RSD) u listu dostupnih valuta u WooCommerce-u.
+RSD na latinici is a lightweight plugin that adds Serbian dinar (RSD) to the list of available currencies in WooCommerce.
 
-Funkcionalnosti:
+Features:
 
-* Dodaje RSD u WooCommerce listu valuta.
-* Postavlja oznaku valute na `RSD`.
-* Jednostavan plugin bez dodatnih podešavanja.
+* Adds RSD to the WooCommerce currency list.
+* Sets the currency symbol to `RSD`.
+* Lightweight plugin without extra settings.
 
-Plugin je razvio Saša Huremović, Orbilix.
+The plugin was developed by Saša Huremović, Orbilix.
 
 == Installation ==
 
-1. Instalirajte i aktivirajte WooCommerce.
-2. Otpremite plugin u folder `/wp-content/plugins/` ili ga instalirajte kroz WordPress admin.
-3. Aktivirajte plugin kroz meni `Plugins` u WordPress adminu.
-4. Idite na `WooCommerce > Settings > General`.
-5. U polju za valutu izaberite `Srpski dinar (RSD)`.
+1. Install and activate WooCommerce.
+2. Upload the plugin to the `/wp-content/plugins/` directory or install it through the WordPress admin.
+3. Activate the plugin through the `Plugins` menu in WordPress.
+4. Go to `WooCommerce > Settings > General`.
+5. Select `Srpski dinar (RSD)` in the currency field.
 
 == Frequently Asked Questions ==
 
-= Da li plugin ima dodatna podešavanja? =
+= Does this plugin have additional settings? =
 
-Ne. Plugin samo dodaje RSD valutu u WooCommerce.
+No. The plugin only adds the RSD currency to WooCommerce.
 
-= Da li WooCommerce mora biti instaliran? =
+= Is WooCommerce required? =
 
-Da. Plugin je namenjen isključivo za WooCommerce sajtove.
+Yes. This plugin is intended only for WooCommerce websites.
 
 == Changelog ==
 
 = 1.0.0 =
 
-* Prvo javno izdanje.
+* Initial public release.
