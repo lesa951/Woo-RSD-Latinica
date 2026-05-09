@@ -1,4 +1,4 @@
-=== RSD Valuta za WooCommerce ===
+=== RSD na latinici ===
 Contributors: 
 Tags: woocommerce, currency, rsd, serbia, dinar
 Requires at least: 6.0
@@ -12,7 +12,7 @@ Dodaje srpski dinar (RSD) kao dostupnu valutu u WooCommerce prodavnici.
 
 == Description ==
 
-RSD Valuta za WooCommerce je lagan plugin koji dodaje srpski dinar (RSD) u listu dostupnih valuta u WooCommerce-u.
+RSD na latinici je lagan plugin koji dodaje srpski dinar (RSD) u listu dostupnih valuta u WooCommerce-u.
 
 Funkcionalnosti:
 
